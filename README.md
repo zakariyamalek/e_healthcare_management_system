@@ -29,7 +29,7 @@ E HealthCare Management System is a comprehensive web application designed to st
 1.Clone the repository:
 
 ```bash
-   git clone https://github.com/bilalshaikh-code/e_healthcare_management.git
+   git clone https://github.com/zakariyamalek/e_healthcare_management_system.git
 ```
 
 2.Navigate to the project directory:
@@ -122,4 +122,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Author
 
-- [GitHub](https://github.com/bilalshaikh-code)
+- [GitHub](https://github.com/zakariyamalek/)
